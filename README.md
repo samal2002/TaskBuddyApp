@@ -72,5 +72,6 @@ Copy code
 ![TaskBuddy Screenshot](public/images/taskbuddy-screenshot.png)
 4. Add a .gitignore File
 Prevent unnecessary files from being uploaded to GitHub by including a .gitignore file. For a React project, it should include:
+git clone https://github.com/your-samal2002/taskbuddy-app.git
 
 
